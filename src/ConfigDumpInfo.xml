@@ -1,4 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="04b6f03a-6c61-493e-a707-e3870f304299" configVersion="8dd1f6471035b64a88a0028360fa94e300000000"/>
+		<Metadata name="Document.НовыйДокумент" id="e7f2b9b8-f502-4246-a311-154b05ded4ef" configVersion="39b4bf8687ce884d9ca6a8609e3dea2800000000">
+			<Metadata name="Document.НовыйДокумент.Attribute.Реквизит1" id="08687c76-4939-4bd0-8ffd-6838b2d2fd88"/>
+		</Metadata>
+		<Metadata name="Document.НовыйДокумент.ObjectModule" id="e7f2b9b8-f502-4246-a311-154b05ded4ef.0" configVersion="10fe5a32c250974c8245ab6a0d39678a00000000"/>
+		<Metadata name="Language.Русский" id="ebec642e-bfb4-4f91-83cf-2036b4a49c28" configVersion="20b0279e98248442809ffd0eb02ee94800000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>

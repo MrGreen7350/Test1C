@@ -215,6 +215,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Document>НовыйДокумент</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
